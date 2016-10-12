@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Portfolio Jacek Rojek
 timezone: UTC
 collections:
   posts:
@@ -8,20 +8,23 @@ collections:
   uploads:
     title: Uploads
     output: true
-title-bold: Forty
-title-normal: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under
-  the Creative Commons.
+title-bold: Jacek
+title-normal: Rojek
+email: j.rojek19@gmail.com
+description: "Web Developer experienced in HTML5, CSS3 + SASS + Compass, JavaScript
+  + jQuery + EM6. PHP, MySQL, CMS: Wordpress, static site generators: Jekyll.\nI'm
+  writing a [blog about C# development](https://indiedevart.wordpress.com/)\nIn my
+  free time I develop games using Unity3D with C#, combined with art in Photoshop/Gimp
+  and animations in Blender.     "
 baseurl: "/forty-jekyll-theme"
-url: https://andrewbanchich.gitlab.io
-author: 
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: "(716) 555-5555"
+url: https://indiedevart.wordpress.com/
+author: Jacek Rojek
+street_address: 
+city: Leeds
+state: 
+zip_code: 
+country: United Kingdom
+phone: '0 749 574 4394 '
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
@@ -30,21 +33,21 @@ gems:
 tiles-source: posts
 tiles-count: 6
 500px_url: 
-facebook_url: 
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+facebook_url: https://www.facebook.com/jacek.rojek.7
+github_url: https://github.com/JacekRojek
+gitlab_url: https://github.com/JacekRojek
+googleplus_url: https://plus.google.com/u/1/110875553629766069606
+instagram_url: https://www.instagram.com/jacekrojek/
+linkedin_url: www.linkedin.com/in/jacek-rojek-b7a396105
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/JRojek93
 markdown: kramdown
 twitter:
-  username: andrewbanchich
+  username: JRojek93
 facebook:
   app_id: 
   publisher: 
   admins: 
-logo: 
+logo: "/uploads/indiedevart1.png"
 google_site_verification: 
