@@ -16,13 +16,10 @@ description: "Web Developer experienced in HTML5, CSS3 + SASS + Compass, JavaScr
   writing a [blog about C# development](https://indiedevart.wordpress.com/)\nIn my
   free time I develop games using Unity3D with C#, combined with art in Photoshop/Gimp
   and animations in Blender.     "
-baseurl: ''
+baseurl: "/forty-jekyll-theme"
 url: http://portfolio-jacekrojek.siteleaf.net/
 author: Jacek Rojek
-street_address: 
 city: Leeds
-state: 
-zip_code: 
 country: United Kingdom
 phone: '0 749 574 4394 '
 gems:
